@@ -1,12 +1,12 @@
 # session 1 of building The Joy in the open
 
-So I want to build an agentic system that ![looks like this](./agentic-system.png). I'd like to replace my usage of OpenClaw with something that I've built from the ground up. Currently I'm using OpenClaw via Telegram, so I guess I'm going to spin up a Telegram bot on some compliant bare-metal server located in Europe first. The first brick will be the agentic entry point. I'm going to call my implementation The Joy, because I want it to spark joy in my daily usage of AI. This thing will be _taylor-made_ for both educational and practical reasons.
+So I want to build an agentic system that looks like this ![agentic system schema](./agentic-system.png). I'd like to replace my usage of OpenClaw with something that I've built from the ground up. Currently I'm using OpenClaw via Telegram, so I guess I'm going to spin up a Telegram bot on some compliant bare-metal server located in Europe first. The first brick will be the agentic entry point. I'm going to call my implementation The Joy, because I want it to spark joy in my daily usage of AI. This thing will be _taylor-made_ for both educational and practical reasons.
 
 I will build this iteratively and in an ingenuous way. This is by design.
 
 ## setting up a bare metal server
 
-Of course, I managed to lock myself out of my own Ubuntu server twice since it's been ages since I haven't provisioned one. But hey, ![no pain no gain](./pain.jpg). Here, listen to this if you suffer like me with these things; if you forgot how to do it, you need to, in this order:
+Of course, I managed to lock myself out of my own Ubuntu server twice since it's been ages since I haven't provisioned one. But hey, no pain no gain ![Pain by De La Soul](./pain.jpg). Here, listen to this if you suffer like me with these things; if you forgot how to do it, you need to, in this order:
 - change hostname
 - create your `sudo`-enabled user
 - disable root login (whether with password, SSH, or locally)
