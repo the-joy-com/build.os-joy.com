@@ -43,4 +43,4 @@ The `pre_process_hook`, that does nothing yet, is IMHO actually the most importa
 Together, that is the first slice of replacing the OpenClaw-over-Telegram flow: a dedicated Telegram bot repo and an agentic entry point repo you can wire up or run as a service next. Then after that, I'm thinking of:
 - selecting the model based on the input
 - adding a Redis memory checkpointer wired to the Telegram session id to keep continuity in my conversations
-- deal with context rot by summarizing the conversation accordingly, and of course do that based on the model that has currently been auto selected
+- dealing with context rot by summarizing the conversation in a timely fashion, and of course do that based on the model that has currently been auto selected, since some models can have good performance with a higher context than others
