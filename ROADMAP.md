@@ -14,16 +14,17 @@
 - [ ] Substack connector and content creation engine
 - [ ] Writing assistant
 
-### data privacy and sovereignty
+### data privacy / hardening / sovereignty
 
 - [ ] Android device without Google integration
-- [ ] "ever cookie" style redundancy and backups
+- [ ] "ever cookie" style redundancy and backups for data
 - [ ] digital agriculture
+- [ ] fully local on-device fallback experience
+- [ ] GPDR-friendly and sovereign alternative to Google Workspace
+- [ ] high availability
 - [ ] Internet presence manager
+- [ ] optimized for a GPDR-friendly and sovereign browser for client-side
 - [ ] redundant git platform for hosting code
-- [ ] re purposing various devices:
-    - [ ] PS3
-    - [ ] ...
 - [ ] secrets manager
 
 ### integrations
@@ -50,6 +51,9 @@
     - [ ] LinkedIn
     - [ ] personal website
     - [ ] Telegram
+- [ ] re purposing various devices:
+    - [ ] PS3
+    - [ ] ...
 - [ ] Ubuntu:
     - [ ] system notifications
     - [ ] ...
@@ -61,6 +65,7 @@
 
 - [ ] agents builder
 - [ ] autocompletion where relevant
+- [ ] drag and drop files
 - [ ] human kill/reboot switch
 - [ ] multimodality:
     - [ ] live/async video UX
