@@ -45,8 +45,10 @@
     - [ ] GMail
     - [ ] ...
 - [ ] integration with a financial assets manager
-- [ ] messaging apps / social media integration:
+- [ ] messaging apps / social media / content platforms integration:
     - [ ] Discord
+    - [ ] LinkedIn
+    - [ ] personal website
     - [ ] Telegram
 - [ ] Ubuntu:
     - [ ] system notifications
