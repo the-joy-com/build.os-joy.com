@@ -4,14 +4,15 @@
 
 ### agentic OS
 
-- [ ] autcompletion in shell
 - [ ] automated cybersec scans
 - [ ] cross-devices universal OS
 - [ ] OS janitor
 
 ### content generation and creative engine
 
-- [ ] Substack connector and content creation engine
+- [ ] content platforms connector and content creation engine
+    - [ ] Substack
+    - [ ] ...
 - [ ] Writing assistant
 
 ### data privacy / hardening / sovereignty
@@ -25,6 +26,7 @@
 - [ ] Internet presence manager
 - [ ] optimized for a GPDR-friendly and sovereign browser for client-side
 - [ ] redundant git platform for hosting code
+- [ ] sovereign LLM APIs
 - [ ] secrets manager
 
 ### integrations
@@ -36,6 +38,7 @@
 - [ ] biometric and physical devices such as:
     - [ ] smart watch
     - [ ] webcam
+    - [ ] ...
 - [ ] digital agriculture
 - [ ] full impl of AI providers APIs:
     - [ ] Mistral
@@ -45,29 +48,39 @@
     - [ ] Calendar
     - [ ] GMail
     - [ ] ...
-- [ ] integration with a financial assets manager
+- [ ] integration with a financial assets manager API
+- [ ] MCP server
 - [ ] messaging apps / social media / content platforms integration:
     - [ ] Discord
+    - [ ] Instagram
     - [ ] LinkedIn
     - [ ] personal website
+        - [ ] human symbiot should be able to push content at the speed of thought
+        - [ ] people interacting my socials can followup about me (with incoming messages from the agent)
+        - [ ] visitors should be able to talk to The Joy and drop messages
+        - [ ] ...
     - [ ] Telegram
 - [ ] re purposing various devices:
     - [ ] PS3
     - [ ] ...
-- [ ] Ubuntu:
+- [ ] Ubuntu-like agentic distro/overlay:
     - [ ] system notifications
     - [ ] ...
 - [ ] web searches
 
-### ND life helper OS
+### anti-pacification cognitive engine
 
 ### UI/UX
 
+- [ ] agent pro actively sends messages to users
 - [ ] agents builder
 - [ ] autocompletion where relevant
-- [ ] drag and drop files
+    - [ ] in input prompts
+    - [x] in shell commands
+- [ ] copy-paste / drag and drop files
 - [ ] human kill/reboot switch
 - [ ] multimodality:
+    - [ ] image analysis
     - [ ] live/async video UX
     - [ ] live/async voice UX
 
