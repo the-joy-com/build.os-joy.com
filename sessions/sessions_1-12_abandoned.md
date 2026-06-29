@@ -76,7 +76,7 @@ The current *run* version of The Joy uses OpenClaw, mostly as an active diary. I
 
 **On premature optimization:** is building a model-routing stub first premature? No — it's structural self-defense. Token economics and latency are the *physics* of an agentic system, not later optimizations. The intelligence router buys vendor sovereignty, tactical deployment (local zero-cost weights for low-voltage tasks), clean graph boundaries, and resilience/ fallbacks. "It's building the gearbox. It is exactly where the time should be spent at this stage."
 
-> *This is the headwater of flaw #2 — the conviction that the model-routing gearbox is the right first investment. It reads persuasively. It was still the wrong place to spend the first months of a side project that didn't yet have a working soul.*
+> *This is the headwater of flaw #2 — the conviction that the model-routing gearbox is the right first investment. It reads persuasively. It was still the wrong place to spend the first months: the soul was never in question — this has lived in my head for months — but there was no working body to put it in yet, nothing a human could actually use, and the gearbox built neither.*
 
 **Destroy time:** gutted everything LangGraph from the entry point (removed the constants file and the model-routing-by-tier scheme, reduced the entry point to a stub, removed LangChain/ LangGraph) to start building the tailor-made FSM.
 
