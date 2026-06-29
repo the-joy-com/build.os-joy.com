@@ -221,7 +221,7 @@ When every box checks, this iteration is done: a real shell on real metal, real 
 
 ## the second iteration to come: give a ghost to the shell
 
-before any of the features listed in our [roadmap](../ROADMAP.md) is implemented, we need to have a context-aware helpful receiving end wired, i.e., something that:
+before any of the features listed in our roadmap is implemented, we need to have a context-aware helpful receiving end wired, i.e., something that:
 
 - writes inputs and persists them
 - takes the history of _all_ these inputs over time (long-term memory from day 0) into consideration before answering

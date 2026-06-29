@@ -15,10 +15,6 @@
 
 - [ ] ...
 
-## work on roadmap features
-
-- [ ] ...
-
 ## promote The Joy
 
 - [ ] The Joy should have its own automated emails sender address
